@@ -421,6 +421,7 @@ goto main
 start https://nmap.org/dist/nmap-7.92-setup.exe
 start https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.77-installer.msi
 start https://github.com/git-for-windows/git/releases/download/v2.37.2.windows.2/Git-2.37.2.2-64-bit.exe
+start https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe
 goto afterrequirements
 :afterrequirements
 cls
